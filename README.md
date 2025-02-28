@@ -1,6 +1,6 @@
 # flutter_mvvm
 
-Projeto para estudo da arquitetura de aplicativos recomendada pela equipe do Flutter MVVM e gerenciamento de estado.
+Projeto para estudo da arquitetura MVVM recomendada pela equipe do Flutter e aplicando os conceitos de result e command.
 
 ## Getting Started
 
